@@ -2,10 +2,6 @@
 Cardiac disease prediction
 Here's a concise summary and structure for a GitHub README file based on the content of the provided document:
 
----
-
-# Heart Disease Prediction
-
 This repository contains a machine learning project aimed at predicting heart disease using various classification algorithms. The project involves data preprocessing, exploratory data analysis (EDA), feature scaling, and the implementation of multiple machine learning models.
 
 ## Table of Contents
