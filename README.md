@@ -52,15 +52,15 @@ Implemented and evaluated the following machine learning models using cross-vali
 - K-Nearest Neighbors (KNeighborsClassifier)
 - Decision Tree (DecisionTreeClassifier)
 - Random Forest (RandomForestClassifier)
+
 - XGBoost (XGBClassifier)
 
 Proofs and Results
-![image](https://github.com/user-attachments/assets/30eb6b1f-6a4a-435d-8beb-b107053eb721)
-![sample_scatter_plot5](https://github.com/user-attachments/assets/6c89da27-0d3e-43cb-990b-06a73aee09ce)
-![sample_scatter_plot3](https://github.com/user-attachments/assets/083aa270-0e71-47ba-b8e5-401b74280d75)
-![sample_scatter_plot1](https://github.com/user-attachments/assets/27b31d43-2630-41bd-a587-1818d851d1e4)
-![sample_scatter_plot](https://github.com/user-attachments/assets/281946ea-23e3-44c0-abac-63abf6e1a6eb)
-![image](https://github.com/user-attachments/assets/9d1a26b0-f8a9-425f-a752-6994c07358b3)
+![sample_scatter_plot1](https://github.com/user-attachments/assets/fe28436c-094a-4f32-acc6-64853568d47c)
+![sample_scatter_plot](https://github.com/user-attachments/assets/ffbda725-148f-43aa-8f0c-d5453d6686f1)
+![newplot](https://github.com/user-attachments/assets/a9c7a2e7-34c5-453b-846d-d9804f94eee3)
+![image](https://github.com/user-attachments/assets/2ddf9d56-5bdc-4812-8301-88577ec4aaa5)
+
 
 Credits: DURGANCE GAUR for helping me through it 
 
